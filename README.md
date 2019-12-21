@@ -1,4 +1,8 @@
 # Flood Detector
+
+# Note
+can be cloned and used for extetion only used for education purpose
+
 has three apps : goverment and citizen with an adapter app 
 Documentation : 
   For documentation please look for documentation in the repo
