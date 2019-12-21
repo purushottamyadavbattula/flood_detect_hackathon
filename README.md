@@ -1,13 +1,13 @@
 # Flood Detector
 
-# Note
+## Note
 can be cloned and used for extetion only used for education purpose
 
 has three apps : goverment and citizen with an adapter app 
 Documentation : 
   For documentation please look for documentation in the repo
 
-# Documentation
+## Documentation
 Flood detection and prevention
 Index
 Contents
@@ -24,7 +24,7 @@ Screeenshots…………………………………………………………�
 Conclusion……………………………………………………………………………….22
 Links…………………………………………………………………………………………22
 
-# Flood detection and prevention
+## Flood detection and prevention
 Aim : To detect floods and prevent the major damage created by floods
 Technologies used :
 IBM cloud
