@@ -1,7 +1,7 @@
 # Flood Detector
 
 # Note
-can be cloned and used for extetion only used for education purpose
+can be cloned and used for extestion only used for education purpose
 
 has three apps : goverment and citizen with an adapter app 
 Documentation : 
